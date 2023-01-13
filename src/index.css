@@ -7,3 +7,16 @@ body {
 img {
   max-width: 100%;
 }
+
+.App {
+  display: flex;
+  align-items: center; /* center items vertically */
+  justify-content: center; /* center items horizontally */
+  height: 100vh; /* take 100% of the viewport height */
+}
+
+.dog-image {
+  width: 300px; /* set the width */
+  height: 300px; /* set the height */
+}
+
